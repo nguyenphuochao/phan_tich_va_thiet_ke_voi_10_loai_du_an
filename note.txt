@@ -1,0 +1,2 @@
+Đường dẫn lưu database : 
+C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA
